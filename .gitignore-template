@@ -1,0 +1,37 @@
+# === 通用开发者常用 ignore 模板 ===
+# 临时文件
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+
+# IDE/编辑器配置
+.vscode/
+.idea/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Node.js 项目（如前端）
+node_modules/
+dist/
+
+# Hugo / 静态站点构建缓存
+public/
+resources/
+
+# 图片类临时导出
+*.xcf
+*.psd
+*.ai
+
+# OS 生成
+ehthumbs.db
+Desktop.ini
