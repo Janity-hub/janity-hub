@@ -51,5 +51,5 @@ Detail-oriented and cross-functional professional with experience in administrat
 - [GitHub Projects](https://github.com/Janity-hub)  
 - [Writing Portfolio (Medium)](https://medium.com/@tinejane68)
 - [Visual Design (Behance)](https://www.behance.net/janity)
-- [Personal Website](https://你的网站.com)
+- [Personal Website](https://janity-hub.github.io/personal-website/)
 
