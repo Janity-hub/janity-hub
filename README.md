@@ -4,7 +4,7 @@
 > Building from the inside out — quietly but powerfully.
 > I'm currently building my personal Hugo website and writing a functional personality framework.
 
-Meanwhile, feel free to explore my [personal website](https://your-hugo-site-link.com)
+Meanwhile, feel free to explore my [personal website](https://janity-hub.github.io/personal-website/)
 
 ## 🛠️ Tech Stack
 
