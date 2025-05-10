@@ -4,21 +4,23 @@
 > Building from the inside out — quietly but powerfully.
 > I'm currently building my personal Hugo website and writing a functional personality framework.
 
-Meanwhile, feel free to explore my [personal site](https://your-hugo-site-link.com)
+Meanwhile, feel free to explore my [personal website](https://your-hugo-site-link.com)
 
 ## 🛠️ Tech Stack
-- [Python](https://github.com/Janity-hub/python-scripts-collection)
-- Markdown · Linux · Python · Hugo · Git · Photoshop
+
+- [Python Repository](https://github.com/Janity-hub/python-scripts-collection)
+- [Linux Repository](https://github.com/Janity-hub/linux-practice-project)
+- Markdown · Hugo · Git · Photoshop
 - Currently diving deeper into: **CI/CD, Nginx, and AWS basics**.
 
 ## 🖋️ Writing & Blog
 
-- [Medium Articles](https://medium.com/@tinejane68)
-- [Writing Portfolio](https://github.com/Janity-hub/writing-portfolio)
+- [Medium Articles Portfolio](https://medium.com/@tinejane68)
+- [Writing Repository](https://github.com/Janity-hub/writing-portfolio)
 
 ## 🎨 Visual Design
 
-- [Behance Portfolio](https://www.behance.net/janity)
+- [Behance Design Portfolio](https://www.behance.net/janity)
 - [Artwork Repository](https://github.com/Janity-hub/design-portfolio)
 
 ## 📬 Contact
