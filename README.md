@@ -8,8 +8,8 @@ Meanwhile, feel free to explore my [personal website](https://janity-hub.github.
 
 ## 🛠️ Tech Stack
 
-- [Python Repository](https://github.com/Janity-hub/python-scripts-collection)
-- [Linux Repository](https://github.com/Janity-hub/linux-practice-project)
+- [Python Repository](https://github.com/Janity-hub/linux-project)
+- [Linux Repository](https://github.com/Janity-hub/python-projects)
 - Markdown · Hugo · Git · Photoshop
 - Currently diving deeper into: **CI/CD, Nginx, and AWS basics**.
 
